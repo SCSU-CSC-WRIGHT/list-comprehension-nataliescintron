@@ -49,8 +49,8 @@ def lab_2():
             odd.append(number)
     oddcount = len(odd)
     evencount = len(even)
-    print(f"There were {len(odd)} even numbers ")
-    print(f"There were {len(even)} odd numbers")
+    print(f"There were {len(even)} even numbers ")
+    print(f"There were {len(odd)} odd numbers")
 
 lab_2()
       
@@ -73,7 +73,6 @@ def lab_3():
        lab_3()
     else:
         return
-        
         
 lab_3()
 
